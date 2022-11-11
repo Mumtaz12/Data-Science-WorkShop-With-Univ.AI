@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: pyds2021
+Version: 0.9
+Summary: A Python 3 library for the 2021 univ.ai pyds course
+Home-page: https://github.com/blindedjoy/
+Author: Univ.ai
+Author-email: hnjoy@mac.com
+License: Harvard
+Keywords: pyds2021
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.6
+License-File: LICENSE.txt
+License-File: AUTHORS
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Requires-Dist: sklearn
+Requires-Dist: datetime
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+
+UNKNOWN
+
